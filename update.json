@@ -1,0 +1,6 @@
+{
+  "version": "0.0.5",
+  "full_version": "Alpha v0.0.5",
+  "changelog": "• Erste stabile Alpha-Version für Fabric 26.1.1\n• Fly, Fullbright und Sprint funktionieren\n• ESP und StorageESP in Arbeit\n• Stabilitätsverbesserungen",
+  "download_url": "https://github.com/PE4CE1/Nullpunkt-Client/releases/download/v0.0.5/NullpunktClient_v0.0.5.exe"
+}
